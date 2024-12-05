@@ -1,5 +1,7 @@
 # BlackJack Vite
 
+Esta es una prueba de cambio para probar el repositorio de GitHub
+
 Pasos para ejecutar proyecto:
 
 1. Clonar repositorio
